@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Applications/XAMPP/xamppfiles/htdocs/EDAA_2025_1/Lista Duplamente Encadeada/listaDuplamenteEncadeada'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _gerarEndereco, symObjAddr: 0x0, symBinAddr: 0x1000037BC, symSize: 0x74 }
+  - { offsetInCU: 0x90, offset: 0x90, size: 0x8, addend: 0x0, symName: _gerarEndereco, symObjAddr: 0x0, symBinAddr: 0x1000037BC, symSize: 0x74 }
+  - { offsetInCU: 0xC6, offset: 0xC6, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x74, symBinAddr: 0x100003830, symSize: 0x54C }
+...
