@@ -155,3 +155,12 @@ int main()
     }
     return 0;
 }
+
+
+
+
+// Exercício
+
+// Construa uma lista duplamente encadeada de carros de uma lavagem
+// o carro deve conter o modelo, placa e ano, 
+// construa uma aplicação que adiciona os carros em ordem pela placa
