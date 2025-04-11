@@ -78,3 +78,15 @@ int main()
     }
     return 0;
 }
+
+
+
+/*
+
+Exercício de Fila
+
+Exercício: Construir uma fila de carros de uma lavagem, onde cada carro possui:
+modelo, placa e kilometragem. Construa uma método que adiciona os carros na fila, 
+porém, nesta fila, só cabem, 5 carros. Construa também um método que lave os carros.
+
+*/
