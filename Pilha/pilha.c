@@ -23,7 +23,7 @@ No* gerarEndereco( char valor[20] ){
     return novoNo;
 }
 
-int main()
+ int main()
 {
 
     int opcao = -1;
@@ -79,15 +79,3 @@ int main()
 }
 
 
-
-/*
-
-Exercício de Pilha
-
-Exercício: Construir uma pilha de livros, onde cada livro possui:
-título, Autor e a quantidade de páginas. 
--> Construa uma método que adiciona o livro na pilha 
--> Construa também um método remove o livro da pilha.
--> Construa um método que imprime a pilha de livros, apresentando todos os dados de cada livro
-
-*/
